@@ -1,4 +1,4 @@
-// Comandos para que Node pueda ocupar cualquier puerto (como el 80)
+# Comandos para que Node pueda ocupar cualquier puerto (como el 80)
 
 sudo apt-get install libcap2-bin
 
